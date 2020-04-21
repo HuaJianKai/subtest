@@ -13,6 +13,7 @@
 + (void)printA
 {
     NSLog(@"123");
+    NSLog(@"321");
 }
 
 @end
